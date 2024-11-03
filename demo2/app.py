@@ -9,7 +9,7 @@ st.write("¡Bienvenido a mi aplicación en Streamlit!")
 
 # Cargar el archivo CSV (debes tener el archivo titanic.csv en el mismo directorio o especificar la ruta correcta)
 try:
-    df = pd.read_csv("titanic.csv")
+    df = pd.read_csv("demo2/titanic.csv")
     st.write("Datos del Titanic:")
     st.dataframe(df)  # Mostrar el DataFrame en Streamlit
 except FileNotFoundError:
