@@ -1,0 +1,696 @@
+rut,estado,cohorte,nem,puntaje_ingreso,puntaje_psu,preferencia,psu_matematica,psu_lenguaje,region,tipo_colegio,egreso,continuidad,porcentaje_beca
+507,Eliminado,2012,0.0,0,0,0,0,0,S/R,Sin Información,,,100
+488,Eliminado,2011,8.0,698,714,1,720,708,VIII+IX+X+XIV+XIXII,Municipal,1999.0,12.0,100
+42,Desertor,2013,8.86,721,697,2,721,674,V+RM+VI+VII,Municipal,1998.0,15.0,64
+399,Matriculado,2012,7.86,728,774,3,836,711,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,0
+156,Desertor,2010,8.43,717,710,5,752,667,V+RM+VI+VII,Particular Subvencionado,2003.0,7.0,100
+236,Matriculado,2010,8.0,699,709,1,802,616,V+RM+VI+VII,Municipal,2005.0,5.0,100
+631,Matriculado,2010,0.0,0,0,0,0,0,S/R,Sin Información,,,97
+253,Eliminado,2011,8.43,699,711,2,685,736,V+RM+VI+VII,Particular Subvencionado,2004.0,7.0,66
+285,Matriculado,2010,8.57,744,749,2,776,722,V+RM+VI+VII,Particular Subvencionado,2004.0,6.0,100
+540,Matriculado,2012,0.0,0,0,0,0,0,S/R,Sin Información,,,100
+316,Desertor,2011,8.86,748,737,1,804,669,V+RM+VI+VII,Particular Subvencionado,2004.0,7.0,100
+27,Eliminado,2011,0.0,0,0,0,0,0,V+RM+VI+VII,Municipal,2007.0,4.0,63
+569,Matriculado,2010,8.71,701,669,1,705,632,V+RM+VI+VII,Particular Subvencionado,2005.0,5.0,100
+180,Eliminado,2010,9.0,715,672,2,724,621,V+RM+VI+VII,Particular Subvencionado,2005.0,5.0,100
+547,Eliminado,2011,8.43,741,788,1,685,890,V+RM+VI+VII,Municipal,2005.0,6.0,100
+376,Matriculado,2010,9.29,787,767,1,797,736,V+RM+VI+VII,Particular Subvencionado,2005.0,5.0,70
+109,Matriculado,2011,8.86,746,727,1,772,682,V+RM+VI+VII,Particular Subvencionado,2005.0,6.0,62
+76,Eliminado,2013,8.0,694,715,2,712,718,XV+I+II+III+IV,Particular Subvencionado,2005.0,8.0,100
+110,Matriculado,2012,8.71,803,839,2,836,842,V+RM+VI+VII,Particular Subvencionado,2005.0,7.0,100
+537,Eliminado,2011,0.0,0,0,0,0,0,S/R,Sin Información,,,66
+633,Matriculado,2012,0.0,0,0,0,0,0,S/R,Sin Información,,,100
+359,Matriculado,2013,7.86,690,740,2,709,770,V+RM+VI+VII,Municipal,2007.0,6.0,93
+97,Matriculado,2015,8.29,701,710,1,736,684,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2006.0,9.0,0
+499,Matriculado,2014,8.57,720,684,3,710,658,V+RM+VI+VII,Particular Subvencionado,2006.0,8.0,65
+374,Matriculado,2010,8.43,717,720,2,737,702,V+RM+VI+VII,Particular Subvencionado,2006.0,4.0,100
+73,Eliminado,2010,8.86,700,681,1,685,677,V+RM+VI+VII,Particular Subvencionado,2007.0,3.0,100
+200,Eliminado,2011,7.57,690,724,1,760,688,V+RM+VI+VII,Particular Subvencionado,2007.0,4.0,100
+315,Matriculado,2015,7.43,686,718,1,762,675,V+RM+VI+VII,Particular Subvencionado,2008.0,7.0,100
+444,Desertor,2010,7.57,714,750,2,809,690,V+RM+VI+VII,Municipal,2007.0,3.0,70
+448,Matriculado,2013,0.0,0,0,0,0,0,S/R,Sin Información,,,0
+125,Matriculado,2010,8.43,760,777,1,809,744,V+RM+VI+VII,Particular Pagado,2006.0,4.0,0
+270,Matriculado,2010,9.0,790,791,1,816,765,V+RM+VI+VII,Particular Subvencionado,2006.0,4.0,100
+589,Eliminado,2014,8.43,702,678,4,692,664,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,0
+195,Eliminado,2011,8.29,723,744,2,712,776,VIII+IX+X+XIV+XIXII,Municipal,2007.0,4.0,100
+16,Matriculado,2012,8.86,738,728,1,724,732,V+RM+VI+VII,Municipal,2006.0,6.0,100
+593,Desertor,2014,8.86,791,792,1,780,805,V+RM+VI+VII,Particular Subvencionado,2007.0,7.0,100
+352,Matriculado,2010,0.0,0,0,0,0,0,S/R,Sin Información,,,97
+89,Desertor,2010,8.71,727,741,1,669,812,V+RM+VI+VII,Particular Subvencionado,2007.0,3.0,75
+39,Matriculado,2011,7.29,723,807,5,777,837,V+RM+VI+VII,Particular Subvencionado,2007.0,4.0,100
+237,Matriculado,2015,8.86,769,775,1,716,835,V+RM+VI+VII,Particular Subvencionado,2007.0,8.0,0
+438,Eliminado,2011,8.43,698,684,1,700,669,XV+I+II+III+IV,Particular Subvencionado,2007.0,4.0,0
+674,Eliminado,2012,9.14,777,791,3,744,837,V+RM+VI+VII,Municipal,2007.0,5.0,100
+634,Eliminado,2011,7.86,805,878,1,954,803,V+RM+VI+VII,Particular Pagado,2007.0,4.0,0
+61,Matriculado,2010,8.57,744,748,1,745,751,XV+I+II+III+IV,Particular Subvencionado,2007.0,3.0,100
+283,Matriculado,2012,9.43,723,668,1,701,635,V+RM+VI+VII,Particular Subvencionado,2008.0,4.0,100
+326,Matriculado,2014,9.0,814,817,1,817,817,V+RM+VI+VII,Particular Subvencionado,2007.0,7.0,44
+656,Eliminado,2011,8.57,708,692,2,729,656,V+RM+VI+VII,Municipal,2007.0,4.0,100
+167,Eliminado,2012,8.29,701,717,1,728,705,V+RM+VI+VII,Municipal,2008.0,4.0,100
+538,Eliminado,2010,8.86,714,670,1,697,643,V+RM+VI+VII,Particular Subvencionado,2008.0,2.0,70
+116,Matriculado,2010,9.0,719,685,1,685,684,V+RM+VI+VII,Municipal,2008.0,2.0,100
+378,Desertor,2010,8.0,709,747,1,729,765,V+RM+VI+VII,Particular Subvencionado,2008.0,2.0,100
+323,Matriculado,2010,9.29,728,669,1,705,632,V+RM+VI+VII,Municipal,2007.0,3.0,100
+522,Matriculado,2010,8.86,760,738,1,741,736,V+RM+VI+VII,Municipal,2007.0,3.0,100
+79,Desertor,2010,8.43,732,727,1,745,709,V+RM+VI+VII,Municipal,2008.0,2.0,100
+281,Eliminado,2010,8.57,724,704,1,741,667,V+RM+VI+VII,Municipal,2008.0,2.0,100
+387,Matriculado,2011,8.57,701,691,2,707,675,V+RM+VI+VII,Municipal,2008.0,3.0,100
+394,Matriculado,2013,8.71,752,768,1,789,748,V+RM+VI+VII,Municipal,2009.0,4.0,100
+503,Matriculado,2010,9.14,719,698,2,729,667,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+632,Matriculado,2015,8.29,740,737,1,805,668,V+RM+VI+VII,Particular Subvencionado,2009.0,6.0,100
+34,Matriculado,2010,8.29,703,711,2,712,709,V+RM+VI+VII,Municipal,2009.0,1.0,100
+249,Eliminado,2011,8.71,728,699,2,729,669,V+RM+VI+VII,Particular Subvencionado,2009.0,2.0,60
+430,Desertor,2010,8.86,726,715,1,745,684,V+RM+VI+VII,Municipal,2009.0,1.0,70
+49,Eliminado,2010,7.71,717,758,3,758,758,V+RM+VI+VII,Particular Subvencionado,2008.0,2.0,100
+525,Eliminado,2010,8.14,700,713,2,749,677,XV+I+II+III+IV,Particular Subvencionado,2009.0,1.0,0
+344,Eliminado,2011,8.43,692,687,1,685,688,V+RM+VI+VII,Municipal,2007.0,4.0,100
+462,Matriculado,2010,8.0,705,710,1,752,667,V+RM+VI+VII,Municipal,2008.0,2.0,70
+140,Matriculado,2013,8.0,740,784,1,790,778,V+RM+VI+VII,Particular Pagado,2008.0,5.0,0
+194,Eliminado,2010,8.14,707,721,3,752,690,V+RM+VI+VII,Particular Pagado,2008.0,2.0,0
+294,Matriculado,2013,8.43,759,794,1,801,788,V+RM+VI+VII,Particular Subvencionado,2008.0,5.0,50
+495,Eliminado,2012,8.86,725,707,1,728,685,V+RM+VI+VII,Particular Subvencionado,2009.0,3.0,100
+235,Matriculado,2014,8.71,746,711,2,771,651,V+RM+VI+VII,Particular Subvencionado,2009.0,5.0,65
+275,Matriculado,2011,9.0,720,691,1,720,662,V+RM+VI+VII,Particular Subvencionado,2008.0,3.0,66
+191,Eliminado,2011,8.14,702,717,2,707,728,V+RM+VI+VII,Particular Subvencionado,2008.0,3.0,100
+104,Eliminado,2011,8.57,712,704,1,700,708,V+RM+VI+VII,Particular Pagado,2010.0,1.0,33
+179,Desertor,2011,8.86,692,657,2,710,604,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,93
+210,Eliminado,2011,7.86,717,743,1,772,714,V+RM+VI+VII,Particular Pagado,2010.0,1.0,33
+379,Desertor,2012,8.71,746,738,1,778,698,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+386,Eliminado,2010,8.86,734,737,1,672,802,V+RM+VI+VII,Municipal,2009.0,1.0,100
+239,Matriculado,2010,9.14,710,659,2,697,621,V+RM+VI+VII,Particular Subvencionado,2007.0,3.0,100
+442,Eliminado,2013,7.57,692,722,1,745,698,V+RM+VI+VII,Particular Subvencionado,2010.0,3.0,100
+11,Eliminado,2011,9.0,726,714,2,707,722,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+511,Eliminado,2012,7.71,706,728,3,814,642,V+RM+VI+VII,Particular Pagado,2008.0,4.0,100
+594,Desertor,2010,8.29,710,724,1,758,690,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,75
+54,Desertor,2011,8.14,712,711,2,760,662,V+RM+VI+VII,Particular Pagado,2010.0,1.0,33
+304,Matriculado,2010,8.0,712,727,2,787,667,V+RM+VI+VII,Particular Subvencionado,2008.0,2.0,100
+118,Desertor,2011,0.0,0,0,0,0,0,S/R,Sin Información,,,0
+602,Matriculado,2013,9.29,796,783,1,812,754,XV+I+II+III+IV,Particular Subvencionado,2008.0,5.0,100
+142,Desertor,2010,7.57,710,750,3,816,684,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+112,Eliminado,2010,8.0,722,764,1,791,736,V+RM+VI+VII,Particular Pagado,2009.0,1.0,100
+185,Desertor,2012,0.0,0,0,0,0,0,S/R,Sin Información,,,100
+184,Matriculado,2014,8.86,731,685,1,765,604,V+RM+VI+VII,Particular Subvencionado,2008.0,6.0,100
+607,Matriculado,2011,9.57,774,727,1,760,695,V+RM+VI+VII,Particular Subvencionado,2008.0,3.0,66
+620,Eliminado,2010,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Pagado,2008.0,2.0,0
+32,Matriculado,2010,8.0,708,731,1,767,696,V+RM+VI+VII,Particular Pagado,2009.0,1.0,74
+60,Matriculado,2010,7.71,732,771,1,791,751,V+RM+VI+VII,Particular Pagado,2009.0,1.0,100
+119,Matriculado,2013,8.14,747,772,1,877,668,V+RM+VI+VII,Particular Subvencionado,2008.0,5.0,100
+6,Desertor,2012,8.57,724,701,4,741,661,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2010.0,2.0,100
+476,Matriculado,2011,8.57,701,692,3,677,708,S/R,Sin Información,2010.0,1.0,100
+221,Eliminado,2012,8.29,696,716,1,721,711,XV+I+II+III+IV,Municipal,2008.0,4.0,100
+665,Desertor,2010,9.29,707,657,2,664,649,V+RM+VI+VII,Municipal,2008.0,2.0,35
+1,Matriculado,2010,8.14,718,729,1,749,709,V+RM+VI+VII,Particular Subvencionado,2008.0,2.0,100
+460,Eliminado,2014,7.57,710,739,1,757,721,V+RM+VI+VII,Particular Subvencionado,2010.0,4.0,100
+274,Matriculado,2011,0.0,0,0,0,0,0,V+RM+VI+VII,Municipal,2009.0,2.0,94
+693,Desertor,2011,8.86,690,627,2,716,538,V+RM+VI+VII,Particular Subvencionado,2008.0,3.0,100
+198,Matriculado,2010,8.43,710,724,1,745,702,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+486,Matriculado,2015,7.57,701,738,5,762,714,V+RM+VI+VII,Particular Subvencionado,2009.0,6.0,65
+288,Matriculado,2015,0.0,0,0,0,0,0,S/R,Sin Información,,,0
+671,Desertor,2010,8.57,709,692,5,752,632,XV+I+II+III+IV,Particular Subvencionado,2009.0,1.0,0
+578,Desertor,2013,9.0,730,703,1,721,685,V+RM+VI+VII,Municipal,2009.0,4.0,100
+434,Desertor,2010,8.86,721,700,3,734,667,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+21,Desertor,2010,9.0,665,598,4,641,556,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,50
+255,Eliminado,2012,8.57,721,705,1,822,589,V+RM+VI+VII,Particular Subvencionado,2009.0,3.0,100
+361,Matriculado,2010,8.71,705,694,2,734,655,V+RM+VI+VII,Municipal,2008.0,2.0,100
+436,Eliminado,2014,8.86,708,695,1,684,707,V+RM+VI+VII,Municipal,2009.0,5.0,50
+364,Matriculado,2017,9.71,765,678,1,729,628,XV+I+II+III+IV,Particular Subvencionado,2008.0,9.0,100
+619,Matriculado,2010,8.0,706,743,1,771,715,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+605,Eliminado,2010,7.57,707,729,1,791,667,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2009.0,1.0,0
+222,Matriculado,2010,8.57,708,678,1,752,604,V+RM+VI+VII,Particular Subvencionado,2008.0,2.0,100
+477,Matriculado,2010,8.86,719,697,1,721,672,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,0
+520,Eliminado,2010,7.86,706,748,2,752,744,VIII+IX+X+XIV+XIXII,Particular Pagado,2009.0,1.0,0
+159,Eliminado,2010,8.86,716,697,1,721,672,VIII+IX+X+XIV+XIXII,Municipal,2009.0,1.0,100
+587,Matriculado,2010,8.71,774,800,1,787,812,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,0
+228,Matriculado,2012,7.86,698,732,1,754,711,V+RM+VI+VII,Municipal,2009.0,3.0,100
+669,Eliminado,2010,8.57,707,704,1,694,715,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+391,Desertor,2010,9.57,708,644,1,645,643,V+RM+VI+VII,Municipal,2009.0,1.0,100
+504,Matriculado,2011,7.57,696,728,3,768,688,V+RM+VI+VII,Particular Subvencionado,2009.0,2.0,100
+676,Matriculado,2011,8.57,697,658,1,720,597,V+RM+VI+VII,Particular Subvencionado,2009.0,2.0,66
+133,Eliminado,2010,8.43,699,661,2,724,597,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,47
+72,Matriculado,2014,9.43,716,632,1,696,568,V+RM+VI+VII,Particular Subvencionado,2009.0,5.0,100
+190,Matriculado,2011,8.0,698,704,2,760,649,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+242,Matriculado,2010,7.57,702,746,1,734,758,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+541,Eliminado,2013,0.0,0,0,0,0,0,S/R,Sin Información,,,100
+490,Matriculado,2010,8.71,735,720,1,767,672,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+17,Matriculado,2010,8.29,753,769,1,816,722,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+134,Desertor,2010,8.71,704,689,4,729,649,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+644,Matriculado,2010,8.14,706,702,4,771,632,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,0
+137,Eliminado,2011,9.14,713,692,1,702,682,V+RM+VI+VII,Particular Subvencionado,2007.0,4.0,66
+392,Matriculado,2010,8.71,783,761,1,844,677,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+401,Matriculado,2010,8.43,753,793,1,802,784,V+RM+VI+VII,Particular Pagado,2009.0,1.0,0
+494,Desertor,2011,8.71,712,694,1,674,714,V+RM+VI+VII,Particular Pagado,2009.0,2.0,0
+535,Eliminado,2010,8.86,716,690,3,724,655,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+552,Eliminado,2011,7.57,699,753,2,792,714,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,0
+627,Matriculado,2010,8.86,734,722,1,685,758,V+RM+VI+VII,Particular Pagado,2009.0,1.0,100
+668,Matriculado,2017,9.0,701,635,1,690,581,V+RM+VI+VII,Municipal,2009.0,8.0,100
+101,Eliminado,2014,8.57,725,692,2,714,671,V+RM+VI+VII,Particular Subvencionado,2009.0,5.0,100
+131,Matriculado,2015,7.71,691,722,1,731,714,V+RM+VI+VII,Particular Subvencionado,2009.0,6.0,100
+433,Eliminado,2013,8.43,0,688,2,709,668,VIII+IX+X+XIV+XIXII,Municipal,2009.0,4.0,100
+453,Desertor,2011,9.43,692,624,1,644,604,XV+I+II+III+IV,Municipal,2010.0,1.0,100
+204,Eliminado,2014,8.57,714,704,2,688,721,V+RM+VI+VII,Municipal,2010.0,4.0,100
+469,Matriculado,2010,9.29,733,681,1,758,604,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+172,Eliminado,2010,8.57,708,702,1,709,696,XV+I+II+III+IV,Particular Subvencionado,2009.0,1.0,0
+66,Desertor,2011,8.14,748,802,4,768,837,VIII+IX+X+XIV+XIXII,Municipal,2009.0,2.0,100
+596,Matriculado,2010,8.71,720,698,2,771,625,XV+I+II+III+IV,Particular Subvencionado,2009.0,1.0,100
+548,Eliminado,2010,8.0,713,751,2,737,765,XV+I+II+III+IV,Particular Subvencionado,2009.0,1.0,100
+517,Matriculado,2016,8.0,745,752,1,856,649,V+RM+VI+VII,Municipal,2009.0,7.0,100
+169,Matriculado,2010,8.71,704,673,3,737,609,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+340,Matriculado,2010,8.71,714,704,1,705,702,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+564,Eliminado,2010,7.86,717,784,2,745,823,V+RM+VI+VII,Municipal,2009.0,1.0,100
+417,Matriculado,2011,8.29,691,673,2,723,623,V+RM+VI+VII,Particular Subvencionado,2009.0,2.0,100
+509,Eliminado,2010,9.0,707,679,3,685,672,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+47,Eliminado,2010,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+67,Matriculado,2011,8.57,708,680,1,737,623,V+RM+VI+VII,Particular Subvencionado,2009.0,2.0,40
+80,Eliminado,2010,8.71,673,648,1,630,667,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+23,Matriculado,2015,7.86,683,694,1,747,642,XV+I+II+III+IV,Particular Pagado,2009.0,6.0,0
+325,Eliminado,2014,8.43,739,721,1,771,671,V+RM+VI+VII,Municipal,2009.0,5.0,100
+621,Desertor,2011,7.43,694,740,2,798,682,V+RM+VI+VII,Particular Pagado,2010.0,1.0,33
+512,Eliminado,2011,7.43,691,734,2,768,701,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,66
+515,Eliminado,2011,8.14,678,678,1,707,649,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+143,Matriculado,2014,8.14,736,762,1,757,768,V+RM+VI+VII,Particular Subvencionado,2009.0,5.0,100
+362,Matriculado,2011,8.0,698,710,1,777,643,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2010.0,1.0,100
+370,Eliminado,2012,8.57,756,766,1,788,744,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2010.0,2.0,100
+57,Matriculado,2011,8.57,688,660,2,760,561,V+RM+VI+VII,Municipal,2010.0,1.0,100
+678,Matriculado,2011,9.29,727,685,3,696,675,XV+I+II+III+IV,Municipal,2010.0,1.0,100
+24,Eliminado,2010,7.71,714,742,3,824,661,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+38,Matriculado,2011,7.71,720,762,3,788,736,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+48,Matriculado,2013,8.0,723,755,1,757,754,XV+I+II+III+IV,Particular Subvencionado,2010.0,3.0,0
+26,Matriculado,2014,8.43,728,731,1,741,721,V+RM+VI+VII,Municipal,2010.0,4.0,33
+189,Matriculado,2013,7.57,706,740,5,741,738,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2011.0,2.0,100
+353,Matriculado,2015,8.71,750,758,1,768,748,V+RM+VI+VII,Particular Subvencionado,2010.0,5.0,36
+415,Desertor,2011,9.0,699,643,4,689,597,V+RM+VI+VII,Municipal,2010.0,1.0,50
+53,Matriculado,2011,8.29,720,730,2,751,708,V+RM+VI+VII,Particular Pagado,2010.0,1.0,100
+107,Desertor,2012,9.57,861,834,1,836,831,V+RM+VI+VII,Municipal,2010.0,2.0,64
+296,Desertor,2012,8.86,717,672,1,763,582,V+RM+VI+VII,Municipal,2010.0,2.0,64
+229,Desertor,2010,8.86,712,691,4,705,677,V+RM+VI+VII,Particular Subvencionado,2009.0,1.0,100
+258,Matriculado,2012,8.43,717,705,1,768,643,V+RM+VI+VII,Particular Pagado,2010.0,2.0,0
+355,Desertor,2011,8.29,702,696,2,723,669,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,59
+451,Eliminado,2011,8.86,703,672,5,707,637,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,26
+455,Matriculado,2016,7.71,697,711,2,801,622,VIII+IX+X+XIV+XIXII,Municipal,2010.0,6.0,100
+662,Eliminado,2010,9.14,720,688,3,709,667,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2009.0,1.0,100
+579,Matriculado,2011,8.57,700,685,4,760,610,V+RM+VI+VII,Municipal,2010.0,1.0,33
+572,Eliminado,2011,8.43,725,714,3,772,656,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,0
+377,Desertor,2010,9.14,699,641,2,677,604,V+RM+VI+VII,Particular Pagado,2009.0,1.0,0
+615,Matriculado,2014,0.0,0,0,0,0,0,S/R,Sin Información,,,100
+641,Matriculado,2011,8.43,706,711,1,760,662,V+RM+VI+VII,Municipal,2010.0,1.0,100
+651,Matriculado,2015,9.43,760,675,1,757,594,V+RM+VI+VII,Particular Subvencionado,2010.0,5.0,100
+5,Matriculado,2011,9.14,752,730,1,760,701,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+105,Matriculado,2012,8.14,710,714,3,754,674,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,100
+337,Matriculado,2011,9.14,687,624,4,702,545,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2010.0,1.0,100
+58,Matriculado,2012,8.57,710,681,1,732,629,XV+I+II+III+IV,Municipal,2010.0,2.0,64
+614,Matriculado,2016,8.14,704,694,2,749,638,V+RM+VI+VII,Particular Subvencionado,2010.0,6.0,100
+78,Eliminado,2014,8.0,704,745,1,714,777,V+RM+VI+VII,Particular Subvencionado,2010.0,4.0,65
+164,Matriculado,2012,9.0,728,700,1,701,698,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,100
+478,Eliminado,2011,8.86,719,708,2,702,714,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+691,Desertor,2011,8.71,697,687,2,712,662,V+RM+VI+VII,Particular Subvencionado,2009.0,2.0,33
+215,Eliminado,2011,8.43,702,697,1,707,688,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+314,Matriculado,2015,0.0,0,0,0,0,0,S/R,Sin Información,,,0
+652,Eliminado,2011,9.43,718,678,1,682,675,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,66
+677,Desertor,2011,8.57,700,681,1,712,649,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,0
+458,Matriculado,2016,8.43,713,707,1,681,734,XV+I+II+III+IV,Municipal,2010.0,6.0,60
+152,Eliminado,2011,8.43,707,701,2,707,695,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+261,Matriculado,2011,8.86,648,617,1,584,649,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+311,Desertor,2013,7.71,693,727,1,785,668,V+RM+VI+VII,Municipal,2011.0,2.0,100
+658,Matriculado,2011,8.14,695,687,1,737,637,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+173,Desertor,2011,9.14,692,647,1,638,656,V+RM+VI+VII,Municipal,2010.0,1.0,100
+286,Eliminado,2012,8.57,687,665,1,657,674,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+357,Matriculado,2015,9.29,738,685,1,747,624,V+RM+VI+VII,Municipal,2010.0,5.0,100
+414,Matriculado,2012,8.71,700,685,1,716,655,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,100
+518,Eliminado,2011,8.29,710,712,2,755,669,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,22
+642,Matriculado,2016,8.29,707,735,1,697,772,V+RM+VI+VII,Municipal,2010.0,6.0,100
+279,Desertor,2011,9.43,721,656,2,689,623,VIII+IX+X+XIV+XIXII,Municipal,2010.0,1.0,100
+349,Eliminado,2011,8.14,704,732,1,783,682,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+508,Eliminado,2012,8.71,764,777,1,777,776,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,100
+149,Eliminado,2012,8.43,708,680,2,778,582,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+240,Desertor,2012,8.86,712,674,1,694,655,V+RM+VI+VII,Particular Pagado,2010.0,2.0,0
+421,Eliminado,2013,8.0,734,744,2,852,635,V+RM+VI+VII,Particular Pagado,2011.0,2.0,64
+472,Eliminado,2012,9.0,845,852,1,954,750,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,64
+666,Matriculado,2011,8.71,722,711,1,741,682,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,66
+74,Eliminado,2011,9.57,740,698,1,702,695,V+RM+VI+VII,Municipal,2010.0,1.0,100
+106,Matriculado,2014,7.57,706,758,2,765,751,V+RM+VI+VII,Particular Subvencionado,2010.0,4.0,65
+254,Matriculado,2011,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+382,Eliminado,2012,7.86,721,756,1,712,800,V+RM+VI+VII,Particular Pagado,2011.0,1.0,0
+586,Matriculado,2011,8.14,709,717,3,764,669,V+RM+VI+VII,Particular Pagado,2010.0,1.0,0
+611,Eliminado,2015,7.86,733,767,2,785,748,V+RM+VI+VII,Particular Subvencionado,2010.0,5.0,100
+162,Desertor,2011,9.0,714,682,1,689,675,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,43
+446,Matriculado,2011,7.86,689,692,1,768,617,VIII+IX+X+XIV+XIXII,Municipal,2010.0,1.0,30
+260,Matriculado,2014,9.0,765,728,1,749,707,V+RM+VI+VII,Particular Subvencionado,2010.0,4.0,65
+309,Matriculado,2012,9.43,741,684,1,700,669,V+RM+VI+VII,Municipal,2010.0,2.0,100
+474,Matriculado,2011,8.0,706,728,1,748,708,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+333,Desertor,2012,8.71,713,691,3,728,655,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,70
+128,Desertor,2015,9.29,758,703,1,731,675,V+RM+VI+VII,Particular Subvencionado,2011.0,4.0,100
+206,Matriculado,2011,8.86,701,665,2,674,656,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+675,Eliminado,2013,7.71,703,697,1,661,732,XV+I+II+III+IV,Particular Subvencionado,2011.0,2.0,0
+147,Matriculado,2011,8.29,701,736,3,744,728,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+36,Matriculado,2012,8.43,722,707,3,778,635,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+130,Eliminado,2012,8.71,701,681,1,732,629,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+203,Desertor,2012,8.43,796,831,1,852,809,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,50
+43,Matriculado,2011,8.14,695,712,1,716,708,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+560,Matriculado,2016,7.71,692,704,1,785,622,V+RM+VI+VII,Particular Subvencionado,2011.0,5.0,82
+85,Matriculado,2012,9.0,691,665,1,657,674,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+534,Desertor,2011,0.0,0,0,0,0,0,S/R,Sin Información,,,30
+94,Eliminado,2013,8.29,722,737,2,741,732,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2011.0,2.0,0
+62,Eliminado,2011,8.29,695,716,2,710,722,XV+I+II+III+IV,Particular Subvencionado,2010.0,1.0,0
+259,Eliminado,2013,7.71,691,719,1,757,681,V+RM+VI+VII,Municipal,2011.0,2.0,100
+367,Eliminado,2012,8.43,729,718,3,724,711,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+595,Desertor,2012,9.0,707,688,4,760,616,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+278,Eliminado,2012,8.71,728,713,2,694,732,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+643,Matriculado,2013,7.71,704,761,1,774,748,VIII+IX+X+XIV+XIXII,Particular Pagado,2011.0,2.0,64
+8,Eliminado,2012,9.43,741,728,1,701,755,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+10,Eliminado,2012,8.43,695,697,2,709,685,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,64
+241,Matriculado,2015,8.0,698,700,1,751,649,V+RM+VI+VII,Particular Subvencionado,2010.0,5.0,100
+272,Desertor,2012,8.0,715,751,3,754,748,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,30
+532,Matriculado,2012,8.57,696,655,1,760,551,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,100
+69,Matriculado,2016,9.57,746,664,1,697,631,V+RM+VI+VII,Municipal,2011.0,5.0,100
+124,Eliminado,2012,8.29,703,703,3,745,661,V+RM+VI+VII,Particular Pagado,2011.0,1.0,36
+489,Desertor,2012,8.71,693,647,2,712,582,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,70
+230,Eliminado,2013,0.0,0,0,0,0,0,S/R,Sin Información,,,64
+424,Matriculado,2013,8.43,716,683,1,763,603,V+RM+VI+VII,Particular Subvencionado,2011.0,2.0,79
+113,Desertor,2016,7.86,734,768,1,790,745,XV+I+II+III+IV,Particular Subvencionado,2010.0,6.0,66
+268,Desertor,2012,8.43,708,709,2,732,685,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+505,Eliminado,2012,8.57,716,713,1,701,725,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2011.0,1.0,64
+267,Matriculado,2012,8.57,725,732,1,709,755,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,100
+449,Desertor,2012,8.43,714,701,1,721,681,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,64
+657,Eliminado,2014,8.71,701,681,1,705,656,V+RM+VI+VII,Municipal,2011.0,3.0,65
+121,Desertor,2011,7.86,697,712,2,710,714,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,0
+216,Desertor,2012,9.14,726,661,1,732,589,V+RM+VI+VII,Municipal,2011.0,1.0,64
+388,Eliminado,2013,7.86,703,718,3,737,698,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,82
+584,Desertor,2012,9.29,719,665,2,689,642,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+393,Matriculado,2011,8.57,696,687,2,751,623,XV+I+II+III+IV,Municipal,2010.0,1.0,100
+562,Eliminado,2012,8.29,715,696,4,788,604,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,36
+161,Matriculado,2011,8.86,800,802,1,811,794,V+RM+VI+VII,Particular Pagado,2010.0,1.0,100
+163,Matriculado,2014,7.57,710,736,1,801,671,V+RM+VI+VII,Particular Subvencionado,2010.0,4.0,0
+581,Matriculado,2014,9.57,879,883,1,817,949,V+RM+VI+VII,Particular Subvencionado,2011.0,3.0,100
+592,Matriculado,2012,8.86,718,712,1,670,755,V+RM+VI+VII,Municipal,2010.0,2.0,100
+339,Eliminado,2012,8.29,718,738,4,712,763,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,64
+456,Desertor,2012,8.71,766,774,1,801,748,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+81,Eliminado,2012,8.86,713,679,5,736,622,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+52,Matriculado,2013,8.29,704,732,3,701,763,V+RM+VI+VII,Particular Subvencionado,2011.0,2.0,100
+685,Eliminado,2011,8.43,723,742,1,741,744,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2010.0,1.0,33
+51,Matriculado,2012,8.43,717,732,2,745,718,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2011.0,1.0,100
+480,Matriculado,2011,8.71,731,722,2,723,722,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+571,Matriculado,2012,8.43,728,721,4,774,668,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,0
+623,Desertor,2012,9.0,704,671,1,674,668,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,51
+331,Eliminado,2012,8.57,730,735,3,745,725,V+RM+VI+VII,Municipal,2011.0,1.0,100
+381,Matriculado,2013,8.29,700,666,3,805,527,V+RM+VI+VII,Particular Subvencionado,2011.0,2.0,100
+628,Matriculado,2012,9.14,728,701,2,697,705,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+126,Matriculado,2011,9.0,708,674,2,654,695,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+350,Matriculado,2013,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2011.0,2.0,100
+645,Matriculado,2012,9.0,698,655,0,689,622,S/R,Sin Información,,,100
+334,Matriculado,2013,8.71,710,657,1,745,568,V+RM+VI+VII,Particular Subvencionado,2011.0,2.0,100
+252,Matriculado,2012,9.29,807,777,1,774,781,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,66
+689,Desertor,2012,8.43,695,675,1,682,668,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,27
+513,Matriculado,2013,9.29,740,672,1,745,600,XV+I+II+III+IV,Municipal,2012.0,1.0,64
+292,Desertor,2013,8.57,699,681,1,705,656,V+RM+VI+VII,Municipal,2012.0,1.0,100
+526,Matriculado,2015,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2013.0,2.0,100
+45,Eliminado,2012,8.29,695,665,2,721,609,V+RM+VI+VII,Particular Subvencionado,2010.0,2.0,100
+70,Matriculado,2012,9.0,707,664,1,724,603,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,64
+165,Matriculado,2014,8.29,740,753,1,762,744,V+RM+VI+VII,Particular Subvencionado,2011.0,3.0,100
+256,Matriculado,2012,8.14,716,726,5,754,698,V+RM+VI+VII,Particular Pagado,2011.0,1.0,100
+500,Matriculado,2012,8.71,717,683,1,763,603,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,81
+617,Eliminado,2012,8.14,709,708,3,736,681,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,64
+4,Matriculado,2013,7.71,709,742,1,780,705,V+RM+VI+VII,Municipal,2012.0,1.0,100
+529,Matriculado,2014,8.71,731,708,1,757,658,V+RM+VI+VII,Particular Subvencionado,2011.0,3.0,65
+404,Desertor,2013,9.29,717,658,1,692,624,VIII+IX+X+XIV+XIXII,Municipal,2012.0,1.0,38
+568,Desertor,2014,8.0,700,720,1,718,721,V+RM+VI+VII,Particular Pagado,2012.0,2.0,0
+598,Matriculado,2014,8.57,752,764,1,794,735,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,0
+616,Matriculado,2013,8.29,699,717,1,729,705,V+RM+VI+VII,Particular Subvencionado,2011.0,2.0,64
+170,Matriculado,2013,7.71,697,722,2,771,674,VIII+IX+X+XIV+XIXII,Particular Pagado,2012.0,1.0,0
+419,Matriculado,2012,8.71,728,732,2,745,718,V+RM+VI+VII,Municipal,2011.0,1.0,100
+14,Eliminado,2012,8.57,718,723,1,754,692,V+RM+VI+VII,Particular Pagado,2011.0,1.0,0
+483,Matriculado,2014,8.14,700,692,1,707,677,VIII+IX+X+XIV+XIXII,Municipal,2011.0,3.0,81
+403,Desertor,2013,9.0,741,720,1,734,705,V+RM+VI+VII,Particular Pagado,2012.0,1.0,100
+407,Matriculado,2013,8.57,722,695,1,752,637,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+450,Matriculado,2013,9.0,718,657,1,701,612,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+516,Eliminado,2014,8.14,741,763,1,877,649,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,100
+103,Desertor,2012,8.57,695,662,1,736,589,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+250,Desertor,2012,8.43,702,699,1,712,685,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+41,Matriculado,2012,9.0,734,715,1,745,685,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,64
+570,Matriculado,2013,8.71,700,668,2,692,644,XV+I+II+III+IV,Particular Subvencionado,2012.0,1.0,100
+625,Matriculado,2013,8.29,688,682,1,709,656,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+650,Eliminado,2013,8.0,726,734,2,775,692,V+RM+VI+VII,Municipal,2011.0,2.0,100
+245,Matriculado,2016,8.43,704,676,1,763,589,V+RM+VI+VII,Particular Subvencionado,2012.0,4.0,100
+576,Desertor,2013,8.57,696,682,1,741,624,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,50
+87,Eliminado,2014,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,98
+440,Eliminado,2013,8.0,706,761,2,725,797,V+RM+VI+VII,Municipal,2011.0,2.0,64
+108,Matriculado,2013,9.29,770,732,1,734,731,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+497,Eliminado,2013,8.29,691,697,1,757,637,V+RM+VI+VII,Particular Pagado,2011.0,2.0,0
+528,Desertor,2012,8.57,720,692,1,768,616,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+622,Matriculado,2015,0.0,0,0,0,0,0,S/R,Sin Información,,,97
+335,Desertor,2013,8.43,691,667,1,709,624,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+558,Matriculado,2013,9.0,716,660,1,701,620,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,99
+686,Eliminado,2013,8.14,689,687,1,737,637,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+217,Matriculado,2015,8.14,756,801,2,785,816,V+RM+VI+VII,Particular Subvencionado,2011.0,4.0,100
+459,Matriculado,2014,7.71,695,716,3,801,631,V+RM+VI+VII,Municipal,2013.0,1.0,65
+461,Eliminado,2012,8.71,741,738,1,736,740,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+600,Eliminado,2014,0.0,0,0,0,0,0,S/R,Sin Información,,,0
+601,Matriculado,2012,9.0,748,732,1,732,732,V+RM+VI+VII,Particular Pagado,2011.0,1.0,64
+102,Eliminado,2013,8.14,706,711,3,737,685,V+RM+VI+VII,Particular Pagado,2012.0,1.0,0
+151,Matriculado,2013,8.29,700,699,1,687,711,V+RM+VI+VII,Particular Pagado,2012.0,1.0,0
+207,Matriculado,2014,8.43,695,642,1,702,583,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,100
+218,Matriculado,2014,8.43,697,680,1,729,631,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+297,Matriculado,2013,8.0,714,750,2,729,770,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,50
+305,Matriculado,2013,8.14,705,749,1,805,692,V+RM+VI+VII,Municipal,2012.0,1.0,50
+327,Matriculado,2013,8.71,738,708,2,780,637,V+RM+VI+VII,Particular Pagado,2012.0,1.0,0
+395,Matriculado,2017,9.14,805,787,1,797,776,V+RM+VI+VII,Particular Pagado,2012.0,5.0,43
+299,Eliminado,2013,7.86,722,777,1,775,778,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2012.0,1.0,0
+647,Matriculado,2016,7.71,698,731,3,738,723,V+RM+VI+VII,Particular Subvencionado,2011.0,5.0,100
+7,Matriculado,2012,8.57,696,648,2,763,534,V+RM+VI+VII,Municipal,2011.0,1.0,100
+12,Eliminado,2016,7.57,686,735,1,785,684,V+RM+VI+VII,Particular Subvencionado,2012.0,4.0,100
+33,Eliminado,2015,8.86,747,724,1,798,649,V+RM+VI+VII,Particular Subvencionado,2011.0,4.0,100
+269,Eliminado,2014,7.57,702,744,1,817,671,V+RM+VI+VII,Particular Pagado,2013.0,1.0,0
+127,Matriculado,2014,0.0,0,0,0,0,0,S/R,Sin Información,,,100
+646,Matriculado,2014,8.29,724,735,2,765,705,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,100
+208,Matriculado,2013,9.0,766,742,1,765,718,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+71,Desertor,2013,8.0,753,784,5,849,718,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2012.0,1.0,82
+287,Desertor,2014,8.0,720,732,1,771,692,VIII+IX+X+XIV+XIXII,Particular Pagado,2013.0,1.0,0
+530,Matriculado,2012,9.86,807,765,1,768,763,XV+I+II+III+IV,Municipal,2011.0,1.0,100
+588,Desertor,2013,8.86,696,657,2,701,612,XV+I+II+III+IV,Municipal,2012.0,1.0,50
+405,Eliminado,2015,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2013.0,2.0,99
+138,Matriculado,2013,8.57,740,753,1,745,761,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+176,Matriculado,2013,8.86,726,692,2,716,668,V+RM+VI+VII,Municipal,2012.0,1.0,64
+197,Matriculado,2013,8.14,691,683,2,771,595,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+298,Matriculado,2013,8.29,708,724,1,749,698,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+498,Eliminado,2014,7.86,716,748,1,752,744,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+573,Matriculado,2016,8.14,743,760,1,785,734,V+RM+VI+VII,Particular Subvencionado,2012.0,4.0,100
+224,Desertor,2013,8.14,689,697,2,709,685,V+RM+VI+VII,Municipal,2012.0,1.0,50
+262,Matriculado,2013,8.43,718,701,1,729,674,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+214,Matriculado,2013,8.57,760,772,1,805,738,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,0
+604,Eliminado,2016,8.71,760,724,2,634,814,V+RM+VI+VII,Municipal,2013.0,3.0,100
+144,Matriculado,2014,8.14,698,684,1,749,618,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,58
+129,Matriculado,2014,8.29,713,716,3,734,698,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,65
+655,Eliminado,2014,8.43,774,802,1,825,778,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,62
+690,Matriculado,2014,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,97
+175,Matriculado,2013,8.57,688,643,1,649,637,V+RM+VI+VII,Municipal,2012.0,1.0,100
+196,Eliminado,2013,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,0
+365,Eliminado,2014,7.43,698,732,1,688,777,V+RM+VI+VII,Municipal,2012.0,2.0,100
+606,Matriculado,2015,8.43,701,668,1,757,578,V+RM+VI+VII,Particular Subvencionado,2011.0,4.0,100
+496,Desertor,2013,8.14,726,732,1,796,668,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+684,Matriculado,2017,8.57,735,735,1,761,709,V+RM+VI+VII,Particular Subvencionado,2013.0,4.0,100
+637,Desertor,2014,8.14,717,722,2,785,658,V+RM+VI+VII,Particular Pagado,2013.0,1.0,0
+20,Eliminado,2013,8.86,693,662,3,705,620,V+RM+VI+VII,Particular Pagado,2012.0,1.0,0
+342,Matriculado,2014,8.0,695,725,1,757,692,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,44
+86,Desertor,2013,8.71,680,642,1,696,589,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+366,Matriculado,2016,8.57,705,671,5,720,622,V+RM+VI+VII,Municipal,2014.0,2.0,100
+542,Eliminado,2016,8.14,685,707,1,669,745,XV+I+II+III+IV,Municipal,2013.0,3.0,64
+544,Matriculado,2014,8.29,707,672,2,762,583,XV+I+II+III+IV,Particular Pagado,2013.0,1.0,0
+3,Desertor,2013,8.43,713,710,1,721,698,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+402,Eliminado,2013,8.29,692,680,1,729,631,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+551,Matriculado,2013,8.57,689,681,1,677,685,V+RM+VI+VII,Municipal,2012.0,1.0,100
+543,Matriculado,2014,8.14,709,730,1,780,681,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,100
+639,Eliminado,2013,8.57,708,680,3,741,620,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+468,Matriculado,2013,9.0,702,662,1,687,637,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+157,Matriculado,2014,9.0,765,744,1,752,735,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+463,Matriculado,2014,8.71,754,742,1,749,735,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+465,Eliminado,2014,9.0,734,708,1,718,698,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+447,Matriculado,2014,8.86,726,688,1,737,638,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,65
+312,Matriculado,2013,9.14,770,742,1,785,698,V+RM+VI+VII,Municipal,2012.0,1.0,100
+75,Matriculado,2014,9.0,824,797,1,817,777,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+282,Matriculado,2014,8.14,698,699,1,714,684,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,65
+360,Matriculado,2014,8.71,711,651,2,663,638,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,65
+408,Matriculado,2014,9.29,743,657,1,710,604,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,65
+46,Eliminado,2015,7.57,686,718,5,722,714,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+155,Matriculado,2014,8.43,725,708,1,745,671,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+168,Matriculado,2014,8.57,694,670,2,702,638,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+356,Eliminado,2013,8.14,749,771,1,818,724,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,100
+410,Eliminado,2015,7.57,700,749,2,774,724,V+RM+VI+VII,Particular Subvencionado,2012.0,3.0,100
+238,Matriculado,2014,8.43,720,713,3,762,664,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,18
+321,Matriculado,2014,9.57,763,701,2,710,692,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,62
+354,Matriculado,2016,8.71,705,668,1,694,642,V+RM+VI+VII,Particular Subvencionado,2013.0,3.0,64
+291,Matriculado,2013,8.29,695,685,1,775,595,V+RM+VI+VII,Particular Pagado,2012.0,1.0,80
+626,Matriculado,2014,8.71,711,676,1,734,618,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+659,Matriculado,2014,8.0,737,759,2,805,712,V+RM+VI+VII,Particular Pagado,2013.0,1.0,47
+174,Eliminado,2014,9.14,697,612,2,655,569,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+178,Matriculado,2014,8.14,730,729,2,745,712,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+289,Eliminado,2014,8.43,715,682,2,734,631,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+302,Desertor,2015,7.86,723,749,1,805,692,V+RM+VI+VII,Particular Subvencionado,2013.0,2.0,83
+341,Eliminado,2014,8.43,703,673,4,722,624,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,65
+629,Matriculado,2017,8.29,741,769,1,787,751,V+RM+VI+VII,Municipal,2014.0,3.0,100
+687,Matriculado,2015,8.0,698,681,5,768,594,V+RM+VI+VII,Municipal,2013.0,2.0,100
+40,Matriculado,2013,8.43,725,727,1,762,692,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,80
+301,Matriculado,2015,7.57,692,752,2,757,748,V+RM+VI+VII,Particular Subvencionado,2013.0,2.0,100
+318,Matriculado,2014,8.43,714,718,2,729,707,V+RM+VI+VII,Particular Pagado,2013.0,1.0,65
+390,Matriculado,2014,8.0,699,698,1,757,638,V+RM+VI+VII,Particular Pagado,2013.0,1.0,0
+565,Desertor,2014,8.57,671,623,1,663,583,XV+I+II+III+IV,Particular Subvencionado,2013.0,1.0,0
+117,Eliminado,2015,8.14,683,693,1,688,698,V+RM+VI+VII,Particular Pagado,2013.0,2.0,65
+122,Eliminado,2014,8.14,728,753,2,780,727,V+RM+VI+VII,Municipal,2013.0,1.0,100
+181,Eliminado,2014,7.57,693,723,2,734,712,V+RM+VI+VII,Particular Pagado,2013.0,1.0,0
+187,Matriculado,2016,8.57,727,724,1,702,745,V+RM+VI+VII,Particular Subvencionado,2014.0,2.0,0
+437,Matriculado,2015,8.86,780,744,1,741,748,XV+I+II+III+IV,Municipal,2013.0,2.0,100
+422,Matriculado,2016,8.43,713,700,2,731,668,V+RM+VI+VII,Particular Subvencionado,2013.0,3.0,100
+510,Matriculado,2015,8.71,707,678,1,671,684,V+RM+VI+VII,Particular Subvencionado,2013.0,2.0,100
+603,Eliminado,2015,8.0,697,712,1,757,668,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2014.0,1.0,50
+114,Matriculado,2014,8.86,734,684,1,757,611,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2013.0,1.0,65
+277,Matriculado,2015,9.14,700,637,1,688,585,V+RM+VI+VII,Particular Subvencionado,2013.0,2.0,100
+182,Matriculado,2015,8.43,719,738,3,751,724,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2013.0,2.0,39
+338,Matriculado,2014,8.29,700,705,2,745,664,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+554,Matriculado,2017,8.71,735,705,1,765,645,V+RM+VI+VII,Particular Subvencionado,2014.0,3.0,100
+44,Matriculado,2014,8.71,704,672,1,714,631,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,66
+59,Matriculado,2014,8.29,725,728,2,780,677,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,65
+227,Eliminado,2014,8.86,680,615,1,611,618,V+RM+VI+VII,Municipal,2013.0,1.0,100
+351,Matriculado,2015,7.29,696,748,2,736,760,V+RM+VI+VII,Particular Subvencionado,2013.0,2.0,100
+618,Matriculado,2014,8.86,704,669,1,714,624,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+93,Desertor,2014,0.0,0,0,0,0,0,S/R,Sin Información,,,100
+96,Desertor,2014,8.43,718,700,2,775,624,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+212,Matriculado,2017,8.86,800,759,1,818,700,V+RM+VI+VII,Particular Pagado,2013.0,4.0,0
+244,Matriculado,2014,8.43,729,737,1,789,684,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,6
+371,Matriculado,2015,7.86,731,747,2,820,675,V+RM+VI+VII,Particular Pagado,2014.0,1.0,0
+396,Eliminado,2015,7.57,704,724,2,798,649,XV+I+II+III+IV,Particular Subvencionado,2014.0,1.0,100
+435,Matriculado,2016,8.14,692,716,1,709,723,V+RM+VI+VII,Particular Subvencionado,2014.0,2.0,100
+487,Matriculado,2016,8.43,731,735,2,785,684,V+RM+VI+VII,Particular Pagado,2014.0,2.0,0
+303,Matriculado,2016,8.57,688,659,2,738,580,XV+I+II+III+IV,Particular Subvencionado,2013.0,3.0,100
+15,Eliminado,2014,8.29,729,746,2,757,735,XV+I+II+III+IV,Particular Subvencionado,2013.0,1.0,0
+202,Matriculado,2014,8.29,715,720,2,762,677,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+284,Matriculado,2014,8.71,721,678,2,684,671,XV+I+II+III+IV,Particular Subvencionado,2013.0,1.0,100
+553,Matriculado,2014,8.43,706,699,2,752,645,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+695,Desertor,2016,8.0,697,697,1,725,668,V+RM+VI+VII,Particular Subvencionado,2014.0,2.0,64
+18,Eliminado,2012,8.43,706,705,2,705,705,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+536,Matriculado,2014,8.71,715,673,2,675,671,V+RM+VI+VII,Municipal,2013.0,1.0,100
+648,Eliminado,2014,8.0,720,741,1,775,707,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+653,Matriculado,2017,9.14,769,745,1,750,741,V+RM+VI+VII,Particular Subvencionado,2013.0,4.0,100
+19,Matriculado,2014,8.14,723,732,2,794,671,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,65
+188,Matriculado,2016,8.0,686,670,1,692,648,V+RM+VI+VII,Municipal,2014.0,2.0,100
+31,Matriculado,2016,8.29,689,678,2,709,648,V+RM+VI+VII,Particular Subvencionado,2013.0,3.0,100
+549,Matriculado,2016,7.71,695,714,2,796,631,V+RM+VI+VII,Particular Subvencionado,2014.0,2.0,100
+328,Desertor,2015,8.43,691,659,4,716,602,V+RM+VI+VII,Particular Pagado,2014.0,1.0,65
+555,Matriculado,2017,8.43,692,672,3,708,636,V+RM+VI+VII,Municipal,2014.0,3.0,100
+575,Eliminado,2014,7.71,720,747,2,817,677,XV+I+II+III+IV,Particular Subvencionado,2013.0,1.0,0
+55,Desertor,2015,8.14,710,741,2,722,760,XV+I+II+III+IV,Particular Subvencionado,2013.0,2.0,65
+418,Matriculado,2014,9.0,695,630,1,641,618,XV+I+II+III+IV,Particular Subvencionado,2013.0,1.0,36
+225,Desertor,2015,8.0,699,731,2,725,736,V+RM+VI+VII,Particular Pagado,2014.0,1.0,0
+233,Desertor,2015,8.71,749,740,1,752,727,V+RM+VI+VII,Municipal,2013.0,2.0,100
+475,Matriculado,2015,7.86,722,774,3,762,787,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+492,Eliminado,2015,8.0,699,729,1,722,736,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+610,Matriculado,2015,8.86,723,667,1,741,594,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+226,Desertor,2015,8.57,719,711,1,708,714,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+234,Matriculado,2015,9.43,751,687,2,670,703,V+RM+VI+VII,Municipal,2014.0,1.0,100
+84,Matriculado,2017,0.0,0,0,0,0,0,S/R,Sin Información,,,98
+266,Matriculado,2016,8.0,711,724,1,774,675,V+RM+VI+VII,Particular Subvencionado,2014.0,2.0,100
+88,Desertor,2015,8.29,705,720,1,716,724,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,83
+672,Desertor,2015,8.29,712,721,2,747,695,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,65
+457,Matriculado,2014,8.57,715,654,1,794,515,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,100
+263,Matriculado,2015,7.43,693,741,5,780,703,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2013.0,2.0,100
+683,Matriculado,2016,8.29,726,725,1,749,702,V+RM+VI+VII,Particular Subvencionado,2013.0,3.0,96
+330,Matriculado,2016,8.29,743,766,5,774,758,V+RM+VI+VII,Particular Pagado,2013.0,3.0,100
+445,Matriculado,2015,7.57,724,784,2,751,816,V+RM+VI+VII,Municipal,2014.0,1.0,0
+425,Matriculado,2015,7.86,708,720,1,805,634,V+RM+VI+VII,Particular Pagado,2013.0,2.0,0
+539,Matriculado,2015,8.14,702,697,1,725,668,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,0
+630,Eliminado,2015,8.43,699,682,2,716,649,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,0
+13,Matriculado,2015,8.29,704,680,3,757,602,V+RM+VI+VII,Particular Pagado,2014.0,1.0,100
+293,Matriculado,2017,7.71,681,700,3,745,654,V+RM+VI+VII,Particular Pagado,2015.0,2.0,0
+276,Matriculado,2015,8.43,644,615,1,612,617,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+257,Matriculado,2016,8.29,706,685,3,714,657,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+383,Eliminado,2016,7.86,691,704,1,760,648,V+RM+VI+VII,Particular Subvencionado,2014.0,2.0,100
+561,Eliminado,2015,8.0,692,701,1,708,695,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,0
+563,Matriculado,2017,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2014.0,3.0,98
+567,Matriculado,2017,8.14,685,686,1,718,654,V+RM+VI+VII,Particular Subvencionado,2014.0,3.0,100
+209,Matriculado,2015,8.43,749,785,1,736,835,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+491,Eliminado,2012,8.71,699,662,3,728,596,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,100
+519,Matriculado,2017,8.71,700,690,1,690,689,VIII+IX+X+XIV+XIXII,Municipal,2014.0,3.0,64
+521,Eliminado,2016,8.71,698,685,1,669,702,V+RM+VI+VII,Municipal,2014.0,2.0,100
+50,Matriculado,2015,8.86,722,684,1,684,684,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+219,Matriculado,2017,8.29,702,712,2,604,820,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,100
+660,Matriculado,2015,7.86,700,715,4,762,668,V+RM+VI+VII,Particular Subvencionado,2013.0,2.0,65
+545,Matriculado,2015,7.57,683,687,1,741,634,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+673,Matriculado,2016,8.29,702,684,2,729,638,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,64
+501,Matriculado,2015,9.0,750,710,3,736,684,V+RM+VI+VII,Municipal,2014.0,1.0,100
+192,Matriculado,2017,7.86,691,708,2,697,720,V+RM+VI+VII,Municipal,2011.0,6.0,100
+22,Matriculado,2015,8.29,704,700,3,716,684,V+RM+VI+VII,Particular Pagado,2014.0,1.0,100
+635,Matriculado,2015,8.14,703,735,2,768,703,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+613,Matriculado,2015,8.14,698,708,1,722,695,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+574,Matriculado,2017,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Subvencionado,2014.0,3.0,98
+37,Eliminado,2017,8.0,695,720,3,787,654,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,64
+308,Matriculado,2016,9.14,759,745,1,778,712,XV+I+II+III+IV,Particular Subvencionado,2015.0,1.0,100
+150,Matriculado,2015,9.57,780,745,1,731,760,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+306,Matriculado,2015,9.0,760,734,1,731,736,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+28,Desertor,2015,8.86,686,645,1,649,642,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,83
+271,Matriculado,2016,8.86,761,731,1,768,695,V+RM+VI+VII,Particular Subvencionado,2014.0,2.0,100
+324,Matriculado,2015,8.57,722,700,2,725,675,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+329,Matriculado,2015,8.29,700,685,2,762,609,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+332,Matriculado,2017,8.0,687,698,1,735,662,V+RM+VI+VII,Particular Subvencionado,2014.0,3.0,100
+452,Matriculado,2015,9.71,815,762,1,751,772,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+471,Eliminado,2015,8.0,681,702,1,736,668,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,65
+479,Matriculado,2015,8.14,698,708,1,741,675,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+347,Matriculado,2016,8.29,710,709,3,724,694,V+RM+VI+VII,Particular Subvencionado,2014.0,2.0,100
+638,Matriculado,2015,8.43,710,718,5,741,695,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,64
+692,Matriculado,2015,7.71,687,697,1,736,658,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+120,Matriculado,2015,8.57,714,710,2,684,736,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,40
+502,Matriculado,2015,8.14,682,680,5,711,649,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+661,Matriculado,2016,0.0,0,0,0,0,0,S/R,Sin Información,,,99
+432,Matriculado,2014,8.71,727,707,2,722,692,V+RM+VI+VII,Particular Subvencionado,2013.0,1.0,65
+310,Matriculado,2015,7.86,730,774,2,812,736,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2014.0,1.0,100
+348,Matriculado,2016,8.14,716,711,2,738,684,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2015.0,1.0,100
+90,Matriculado,2015,8.43,681,678,1,620,736,V+RM+VI+VII,Municipal,2014.0,1.0,65
+91,Eliminado,2017,8.29,681,646,1,702,590,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2016.0,1.0,0
+466,Eliminado,2016,8.0,704,738,1,774,702,V+RM+VI+VII,Particular Pagado,2015.0,1.0,0
+160,Matriculado,2015,8.86,719,682,2,680,684,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,65
+92,Matriculado,2017,7.86,697,714,3,744,684,V+RM+VI+VII,Particular Subvencionado,2014.0,3.0,0
+171,Matriculado,2016,8.14,686,701,2,656,745,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+265,Matriculado,2016,8.0,717,728,1,798,658,XV+I+II+III+IV,Particular Pagado,2014.0,2.0,0
+566,Eliminado,2016,8.71,703,669,1,681,657,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+68,Matriculado,2015,8.43,741,758,1,716,801,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+406,Matriculado,2016,9.43,814,777,1,754,800,XV+I+II+III+IV,Particular Subvencionado,2015.0,1.0,100
+2,Matriculado,2017,8.43,708,674,1,681,667,XV+I+II+III+IV,Particular Pagado,2015.0,2.0,64
+443,Eliminado,2015,7.86,710,750,3,741,760,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,100
+400,Desertor,2015,0.0,0,0,0,0,0,V+RM+VI+VII,Particular Pagado,2014.0,1.0,64
+123,Matriculado,2016,8.43,727,716,2,687,745,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+246,Matriculado,2017,0.0,0,0,0,0,0,S/R,Sin Información,,,0
+322,Matriculado,2017,7.43,704,725,1,814,636,V+RM+VI+VII,Municipal,2014.0,3.0,100
+375,Desertor,2017,7.86,696,704,2,745,662,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,100
+9,Matriculado,2016,9.43,873,863,1,818,908,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+248,Matriculado,2016,8.71,742,745,1,744,745,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+649,Matriculado,2017,8.29,684,662,1,680,645,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+295,Matriculado,2016,8.86,746,719,1,763,675,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+608,Matriculado,2016,9.57,809,760,1,774,745,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+384,Matriculado,2016,8.43,705,690,2,749,631,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+132,Eliminado,2016,7.57,685,728,2,744,712,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+193,Matriculado,2017,8.86,702,657,2,708,607,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,0
+636,Matriculado,2017,8.43,728,711,1,787,636,V+RM+VI+VII,Particular Pagado,2016.0,1.0,0
+98,Eliminado,2015,8.29,700,685,2,736,634,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,0
+585,Desertor,2015,8.29,708,718,3,751,684,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,83
+273,Matriculado,2015,9.29,762,688,2,702,675,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,99
+481,Matriculado,2016,8.86,758,735,1,768,702,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+135,Matriculado,2017,8.86,722,693,1,697,689,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+141,Desertor,2016,7.43,705,758,2,744,772,XV+I+II+III+IV,Particular Subvencionado,2015.0,1.0,100
+111,Matriculado,2016,8.14,722,748,1,774,723,VIII+IX+X+XIV+XIXII,Particular Pagado,2015.0,1.0,0
+412,Matriculado,2017,8.43,709,687,1,745,628,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,64
+493,Matriculado,2017,8.14,684,663,1,745,581,V+RM+VI+VII,Municipal,2015.0,2.0,100
+65,Matriculado,2016,8.71,693,671,1,729,612,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+213,Matriculado,2016,9.57,748,673,1,734,612,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,0
+389,Matriculado,2017,8.0,692,711,1,712,709,V+RM+VI+VII,Particular Pagado,2016.0,1.0,100
+484,Matriculado,2016,8.14,710,712,4,702,723,V+RM+VI+VII,Municipal,2015.0,1.0,100
+681,Eliminado,2016,8.86,673,605,2,656,555,XV+I+II+III+IV,Municipal,2015.0,1.0,100
+63,Matriculado,2016,8.57,751,761,1,763,758,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+426,Matriculado,2016,8.14,748,777,1,768,785,VIII+IX+X+XIV+XIXII,Particular Pagado,2015.0,1.0,0
+439,Matriculado,2016,7.57,684,721,1,749,694,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2015.0,1.0,0
+556,Matriculado,2017,9.43,824,780,1,809,751,VIII+IX+X+XIV+XIXII,Particular Pagado,2016.0,1.0,100
+612,Matriculado,2017,8.43,690,668,1,755,581,VIII+IX+X+XIV+XIXII,Particular Pagado,2016.0,1.0,100
+533,Matriculado,2016,8.43,733,730,1,812,648,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,96
+409,Matriculado,2016,8.43,691,668,1,724,612,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,64
+264,Matriculado,2016,8.0,701,717,2,749,684,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+423,Matriculado,2016,8.29,706,682,2,768,596,V+RM+VI+VII,Particular Pagado,2015.0,1.0,0
+580,Matriculado,2016,8.71,715,710,2,697,723,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+100,Matriculado,2017,7.71,694,711,1,702,720,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,64
+559,Matriculado,2015,7.57,687,730,1,791,668,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,65
+670,Matriculado,2016,8.57,709,667,2,754,580,XV+I+II+III+IV,Particular Subvencionado,2015.0,1.0,64
+682,Matriculado,2016,8.57,717,688,1,754,622,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+77,Matriculado,2017,8.71,688,668,1,690,645,V+RM+VI+VII,Particular Pagado,2016.0,1.0,100
+336,Desertor,2016,8.29,703,680,3,702,657,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+154,Matriculado,2016,9.14,743,724,1,634,814,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+523,Matriculado,2017,8.43,698,684,1,697,671,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+473,Matriculado,2016,8.29,751,771,1,796,745,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+223,Matriculado,2017,8.71,757,730,1,761,700,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+485,Matriculado,2017,9.0,759,767,1,687,848,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,100
+29,Matriculado,2017,8.14,706,694,1,781,607,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,64
+307,Matriculado,2016,8.14,687,671,2,754,589,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+373,Eliminado,2017,8.29,681,684,4,634,734,V+RM+VI+VII,Municipal,2015.0,2.0,100
+413,Matriculado,2017,9.14,696,625,1,638,612,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,100
+420,Matriculado,2016,8.43,716,704,1,724,684,V+RM+VI+VII,Municipal,2015.0,1.0,100
+431,Matriculado,2016,8.0,686,702,1,702,702,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+280,Eliminado,2017,7.43,693,786,2,718,854,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+427,Desertor,2016,8.0,694,713,1,681,745,V+RM+VI+VII,Particular Pagado,2015.0,1.0,100
+247,Matriculado,2017,7.71,688,704,2,745,662,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,100
+25,Matriculado,2017,7.57,695,725,2,761,689,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,100
+251,Matriculado,2017,9.0,760,722,1,745,700,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+300,Matriculado,2016,7.86,708,722,1,831,612,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+115,Matriculado,2016,7.86,695,711,3,729,694,VIII+IX+X+XIV+XIXII,Particular Pagado,2015.0,1.0,0
+232,Matriculado,2017,8.57,705,652,1,685,620,XV+I+II+III+IV,Particular Subvencionado,2016.0,1.0,0
+64,Matriculado,2017,8.29,722,724,1,787,662,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+397,Matriculado,2016,8.57,687,667,2,744,589,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+317,Matriculado,2016,7.29,705,751,1,790,712,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,64
+290,Matriculado,2017,0.0,0,0,0,0,0,XV+I+II+III+IV,Municipal,2016.0,1.0,100
+166,Matriculado,2016,8.86,741,721,1,709,734,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+183,Matriculado,2017,8.71,721,700,1,729,671,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,64
+205,Matriculado,2017,9.0,714,661,1,709,612,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,100
+220,Matriculado,2017,9.14,706,640,1,672,607,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+243,Matriculado,2016,8.0,698,688,2,763,612,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,0
+464,Eliminado,2017,8.29,701,690,1,708,671,XV+I+II+III+IV,Particular Subvencionado,2016.0,1.0,100
+428,Matriculado,2017,8.0,720,751,1,750,751,XV+I+II+III+IV,Particular Subvencionado,2016.0,1.0,0
+363,Matriculado,2017,8.43,711,721,1,761,681,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+679,Matriculado,2017,8.71,764,750,1,754,745,V+RM+VI+VII,Particular Pagado,2015.0,2.0,0
+35,Matriculado,2017,8.57,742,728,1,776,681,V+RM+VI+VII,Particular Pagado,2016.0,1.0,0
+599,Matriculado,2017,8.14,688,692,1,740,645,XV+I+II+III+IV,Particular Subvencionado,2016.0,1.0,100
+667,Desertor,2016,8.43,709,702,1,720,684,V+RM+VI+VII,Particular Pagado,2015.0,1.0,100
+663,Matriculado,2017,8.0,685,694,2,708,681,V+RM+VI+VII,Particular Pagado,2016.0,1.0,64
+145,Matriculado,2017,8.57,741,703,2,809,597,XV+I+II+III+IV,Particular Subvencionado,2016.0,1.0,70
+148,Matriculado,2017,9.14,698,620,1,617,622,V+RM+VI+VII,Municipal,2015.0,2.0,100
+343,Matriculado,2017,9.71,820,748,1,825,671,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+597,Desertor,2017,8.14,708,715,1,750,681,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+688,Matriculado,2017,8.43,695,708,1,697,720,V+RM+VI+VII,Municipal,2016.0,1.0,100
+583,Matriculado,2016,8.71,715,695,3,697,694,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,100
+368,Matriculado,2017,9.0,755,703,1,809,597,V+RM+VI+VII,Particular Pagado,2016.0,1.0,27
+591,Matriculado,2017,9.43,822,811,3,802,820,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,0
+624,Desertor,2017,8.29,723,724,1,740,709,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+56,Matriculado,2017,7.71,714,772,1,740,804,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,0
+199,Matriculado,2017,8.0,681,681,1,755,607,V+RM+VI+VII,Particular Pagado,2016.0,1.0,64
+550,Matriculado,2017,8.57,702,690,1,690,689,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2016.0,1.0,64
+380,Desertor,2017,9.14,714,674,1,685,662,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,36
+514,Matriculado,2017,8.43,709,686,3,765,607,V+RM+VI+VII,Particular Pagado,2016.0,1.0,0
+95,Matriculado,2017,9.0,731,674,2,685,662,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+320,Matriculado,2017,8.29,699,709,1,729,689,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,0
+416,Matriculado,2017,8.71,722,689,1,750,628,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,64
+201,Eliminado,2017,8.29,687,651,1,755,547,XV+I+II+III+IV,Particular Subvencionado,2016.0,1.0,100
+524,Matriculado,2017,8.71,680,608,1,724,492,XV+I+II+III+IV,Particular Subvencionado,2016.0,1.0,100
+680,Matriculado,2017,9.0,764,756,1,761,751,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,64
+211,Eliminado,2017,9.0,691,632,1,668,597,V+RM+VI+VII,Municipal,2016.0,1.0,100
+345,Matriculado,2017,8.0,696,708,1,697,720,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+231,Matriculado,2017,8.71,712,668,1,755,581,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+506,Matriculado,2017,7.57,724,761,1,745,776,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+470,Matriculado,2017,8.29,695,665,1,765,564,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+146,Matriculado,2017,8.0,708,715,1,750,681,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,0
+531,Matriculado,2017,8.86,821,826,1,901,751,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+582,Matriculado,2017,9.0,667,643,1,680,607,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+186,Matriculado,2017,9.43,679,625,1,661,590,V+RM+VI+VII,Municipal,2016.0,1.0,100
+369,Matriculado,2017,8.14,680,670,1,668,671,V+RM+VI+VII,Municipal,2016.0,1.0,100
+664,Matriculado,2017,8.29,711,694,2,708,681,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,100
+177,Matriculado,2017,7.86,680,709,1,718,700,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,64
+153,Eliminado,2011,8.43,714,715,1,729,701,V+RM+VI+VII,Municipal,2009.0,2.0,100
+99,Matriculado,2011,9.29,760,732,1,777,688,V+RM+VI+VII,Particular Subvencionado,2010.0,1.0,100
+640,Matriculado,2012,8.71,700,660,2,638,681,V+RM+VI+VII,Municipal,2011.0,1.0,100
+372,Desertor,2015,7.86,682,697,1,751,642,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,65
+557,Desertor,2016,8.29,697,693,2,738,648,V+RM+VI+VII,Particular Subvencionado,2006.0,10.0,0
+609,Desertor,2013,8.14,701,713,1,734,692,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,5
+398,Desertor,2016,8.71,726,705,1,709,702,V+RM+VI+VII,Particular Subvencionado,2015.0,1.0,0
+346,Desertor,2011,9.0,720,677,1,658,695,V+RM+VI+VII,Particular Subvencionado,2009.0,2.0,30
+546,Desertor,2013,9.14,737,681,2,725,637,V+RM+VI+VII,Particular Subvencionado,2011.0,2.0,50
+590,Desertor,2013,8.43,688,681,1,677,685,V+RM+VI+VII,Particular Pagado,2012.0,1.0,0
+429,Desertor,2012,8.86,689,671,2,682,661,V+RM+VI+VII,Municipal,2011.0,1.0,30
+454,Desertor,2016,8.57,699,685,1,702,668,XV+I+II+III+IV,Municipal,2014.0,2.0,32
+358,Desertor,2014,8.57,725,722,2,734,711,V+RM+VI+VII,Particular Subvencionado,2012.0,2.0,0
+441,Desertor,2017,8.29,715,731,1,697,764,V+RM+VI+VII,Particular Subvencionado,2016.0,1.0,50
+139,Desertor,2013,8.0,707,714,2,790,637,V+RM+VI+VII,Particular Pagado,2012.0,1.0,0
+83,Desertor,2013,9.57,743,672,1,664,681,V+RM+VI+VII,Municipal,2012.0,1.0,43
+319,Desertor,2016,8.57,708,691,3,697,684,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2015.0,1.0,0
+136,Matriculado,2017,8.29,710,733,1,702,764,V+RM+VI+VII,Particular Subvencionado,2015.0,2.0,50
+654,Desertor,2012,8.14,700,721,1,736,705,V+RM+VI+VII,Particular Pagado,2011.0,1.0,0
+482,Desertor,2017,8.29,690,690,1,661,720,VIII+IX+X+XIV+XIXII,Municipal,2016.0,1.0,50
+158,Desertor,2013,8.0,702,721,1,785,656,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2010.0,3.0,0
+82,Desertor,2013,8.71,677,657,1,616,698,VIII+IX+X+XIV+XIXII,Particular Subvencionado,2012.0,1.0,30
+527,Desertor,2013,9.0,718,684,1,687,681,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,32
+467,Desertor,2011,8.43,746,768,1,792,744,V+RM+VI+VII,Particular Pagado,2010.0,1.0,0
+313,Desertor,2015,8.29,698,692,1,725,658,V+RM+VI+VII,Particular Pagado,2014.0,1.0,0
+694,Desertor,2013,9.14,728,691,1,701,681,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,50
+577,Desertor,2015,8.43,729,767,3,698,835,V+RM+VI+VII,Particular Subvencionado,2014.0,1.0,0
+385,Desertor,2011,7.57,709,759,1,768,750,V+RM+VI+VII,Particular Pagado,2009.0,2.0,15
+411,Desertor,2013,8.43,698,695,1,716,674,V+RM+VI+VII,Particular Subvencionado,2012.0,1.0,32
+30,Desertor,2012,8.57,717,715,2,732,698,V+RM+VI+VII,Particular Subvencionado,2011.0,1.0,10

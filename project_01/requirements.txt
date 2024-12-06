@@ -1,0 +1,5 @@
+streamlit
+loguru
+requests
+pandas
+plotly
