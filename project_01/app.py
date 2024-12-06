@@ -95,7 +95,7 @@ class ImagesURL:
     icon = "https://cdn.iconscout.com/icon/free/png-256/free-graduating-student-icon-download-in-svg-png-gif-file-formats--female-education-study-school-back-to-pack-icons-2042096.png"
     img_01 = "https://cdni.iconscout.com/illustration/premium/thumb/career-advancement-illustration-download-in-svg-png-gif-file-formats--vocational-training-professional-development-guidance-educational-pathways-education-pack-school-illustrations-9506614.png"
 class DataURL:
-    path_data = 'data/'
+    path_data = 'https://raw.githubusercontent.com/Seth-Nut/ResearchX/refs/heads/main/project_01/data/'
     previo_universidad = path_data + 'datos_previos_anonimizados.csv'
     durante_universidad = path_data + 'datos_durante_anonimizados.csv'
     malla = path_data + 'malla_anonimizados.csv'
