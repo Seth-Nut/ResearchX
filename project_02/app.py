@@ -1,6 +1,7 @@
 import streamlit as st
 from PIL import Image
-import pandas as pd
+import base64
+import requests
 
 
 # Initial page config
@@ -93,8 +94,15 @@ Este programa de ingeniería, impartido en una institución de prestigio, reúne
 
 class ImagesURL:
     icon = "images/icon.png"
+    icon2 = "https://raw.githubusercontent.com/Seth-Nut/ResearchX/refs/heads/main/project_02/images/icon.png"
 
 
+# Define img_to_bytes() function
+def img_to_bytes(img_url):
+    response = requests.get(img_url)
+    img_bytes = response.content
+    encoded = base64.b64encode(img_bytes).decode()
+    return encoded
 
 # main function
 def main():
@@ -111,8 +119,14 @@ def cs_sidebar():
     Populate the sidebar with various content sections related to Python.
     """
 
-    image = Image.open(ImagesURL.icon)
-    st.sidebar.image(image)
+    st.sidebar.markdown(
+        """[<img src='data:image/png;base64,{}' class='img-fluid' width=450 >](https://streamlit.io/)""".format(
+            img_to_bytes(
+                ImagesURL.icon2
+            )
+        ),
+        unsafe_allow_html=True,
+    )
 
     st.sidebar.header("A Framework for Integrating Artificial General Intelligence into Engineering Education: Enhancing Human-Centric Approaches for Industry 5.0")
     st.sidebar.markdown("_Autores: Trini S. Balart y Dr. Kristi J. Shryock_")

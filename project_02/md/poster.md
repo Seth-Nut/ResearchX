@@ -1,4 +1,4 @@
-# Validación del Marco AGI²E²
+# Validación del Marco AGI2E2
 
 ## Introducción
 
